@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    $(".btn1").click(function(){
+    $("#hide_this").click(function(){
         $("p").hide();
     });
